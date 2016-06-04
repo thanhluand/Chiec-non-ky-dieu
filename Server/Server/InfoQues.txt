@@ -1,0 +1,27 @@
+﻿
+Ten khai sinh cua Chu tich Ho Chi Minh
+NGUYENSINHCUNG
+14
+50
+Chau luc co it dan so nhat the gioi
+CHAUDAIDUONG
+12
+50
+Ten dat nuoc co nguoi chau a dau tien bay len vu tru
+VIETNAM
+7
+50
+Quan rong nhat the gioi la quan gi
+QUANDAO
+7
+50
+What is the largest coutry in South Asia
+INDONESIA
+9
+50
+Cha cua Nguyen Trai co ten la gi
+NGUYENPHIKHANH
+14
+2
+
+	
